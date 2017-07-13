@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\components",
+    "\\client\\src\\app\\components\\navbar"
+  ],
+  "SelectedNode": "\\client\\src\\app\\components\\navbar\\navbar.component.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
