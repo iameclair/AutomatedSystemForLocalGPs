@@ -1,0 +1,24 @@
+{
+  "name": "individualproject",
+  "version": "1.0.0",
+  "description": "Automated System for local gp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iameclair/AutomatedSystemForLocalGPs.git"
+  },
+  "author": "Eclair Lumu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iameclair/AutomatedSystemForLocalGPs/issues"
+  },
+  "homepage": "https://github.com/iameclair/AutomatedSystemForLocalGPs#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1",
+    "nodemon": "^1.11.0"
+  }
+}
