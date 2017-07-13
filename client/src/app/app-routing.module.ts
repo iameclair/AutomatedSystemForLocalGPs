@@ -1,11 +1,12 @@
-import { Router, ActivatedRoute, ParamMap } from '@angular/router';
+﻿import { RouterModule, Routes } from '@angular/router';
 import { NgModule } from '@angular/core';
 
 @NgModule({
-	declaration: [],
+	declarations: [],
 	imports: [],
 	providers: [],
-	bootsrap: []
+    bootstrap: [],
+    exports: [RouterModule]
 })
 
 export class AppRoutingModule {}
